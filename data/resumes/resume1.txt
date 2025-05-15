@@ -1,0 +1,1 @@
+John Doe is a data scientist with 3 years of experience in Python, machine learning, and data analysis. Skilled in Pandas, NumPy, Scikit-learn.
